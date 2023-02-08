@@ -5,3 +5,5 @@
 each square is 1/n the width and 1/n the height of the window and appears in a random location in the nxn grid. once the window fills, the grid clears and is squared in size. 
 
 enjoy this mind-numbing task of filling your screen with colors! 
+
+click [here](https://prestonmohr.github.io/px-spawner/) to play!
